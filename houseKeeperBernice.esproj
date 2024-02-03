@@ -1,0 +1,5 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.128-alpha">
+  <ItemGroup>
+    <Folder Include="errorLog\" />
+  </ItemGroup>
+</Project>

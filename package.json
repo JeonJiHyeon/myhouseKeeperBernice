@@ -1,0 +1,23 @@
+{
+  "name": "housekeeperbernice",
+  "version": "1.0.0",
+  "description": "디스코드 봇, 하우스키퍼 버니스 입니다.",
+  "main": "houseKeeperBernice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "왜용이/whycatz",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "axios": "^1.6.5",
+    "discord.js": "^14.14.1",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13",
+    "ytdl-core": "^4.11.5"
+  }
+}
